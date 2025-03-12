@@ -1,4 +1,4 @@
-# Ton Nominators Pool
+CD drive# Ton Nominators Pool
 
 Nominator pool source code for TON.
 
